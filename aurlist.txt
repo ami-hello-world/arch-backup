@@ -1,0 +1,9 @@
+brave-bin
+python-imageio-ffmpeg
+python-screeninfo
+sddm-sugar-candy-git
+spotify
+visual-studio-code-bin
+waypaper-git
+yay
+yay-debug
